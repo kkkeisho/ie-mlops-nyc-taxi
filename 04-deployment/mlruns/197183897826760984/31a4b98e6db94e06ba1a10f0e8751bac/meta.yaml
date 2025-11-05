@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/197183897826760984/31a4b98e6db94e06ba1a10f0e8751bac/artifacts
+end_time: 1762337815487
+entry_point_name: ''
+experiment_id: '197183897826760984'
+lifecycle_stage: active
+run_id: 31a4b98e6db94e06ba1a10f0e8751bac
+run_name: gifted-mink-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762337812357
+status: 3
+tags: []
+user_id: keishoomori

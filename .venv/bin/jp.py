@@ -1,4 +1,4 @@
-#!/Users/keishoomori/Desktop/MBDS/term2/MLOps/ie_mlops_nyc_taxi/.venv/bin/python3
+#!/Users/keishoomori/Desktop/MBDS/term2/MLOps/ie_mlops_nyc_taxi/.venv/bin/python
 
 import sys
 import json

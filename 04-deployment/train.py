@@ -22,7 +22,7 @@ import mlflow.xgboost  # ensure XGBoost flavor registered
 import mlflow.sklearn
 
 
-MLFLOW_TRACKING_URI = "http://localhost:5000"
+MLFLOW_TRACKING_URI = "http://127.0.0.1:5000/"
 EXPERIMENT_NAME = "nyc-taxi-duration"
 DATA_URL = "https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-01.parquet"
 

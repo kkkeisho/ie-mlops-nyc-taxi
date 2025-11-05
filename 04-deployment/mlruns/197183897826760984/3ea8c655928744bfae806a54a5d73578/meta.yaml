@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/197183897826760984/3ea8c655928744bfae806a54a5d73578/artifacts
+end_time: 1762335345851
+entry_point_name: ''
+experiment_id: '197183897826760984'
+lifecycle_stage: active
+run_id: 3ea8c655928744bfae806a54a5d73578
+run_name: puzzled-snail-784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762335344635
+status: 4
+tags: []
+user_id: keishoomori

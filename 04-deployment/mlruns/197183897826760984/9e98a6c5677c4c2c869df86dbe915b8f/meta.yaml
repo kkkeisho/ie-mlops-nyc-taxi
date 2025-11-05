@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/197183897826760984/9e98a6c5677c4c2c869df86dbe915b8f/artifacts
+end_time: 1762334993831
+entry_point_name: ''
+experiment_id: '197183897826760984'
+lifecycle_stage: active
+run_id: 9e98a6c5677c4c2c869df86dbe915b8f
+run_name: nimble-ray-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762334992586
+status: 4
+tags: []
+user_id: keishoomori

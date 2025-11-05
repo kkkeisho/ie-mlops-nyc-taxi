@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/197183897826760984/fca2412f17f240a2812a56830d4cd9a0/artifacts
+end_time: 1762337898999
+entry_point_name: ''
+experiment_id: '197183897826760984'
+lifecycle_stage: active
+run_id: fca2412f17f240a2812a56830d4cd9a0
+run_name: big-worm-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762337896044
+status: 3
+tags: []
+user_id: keishoomori
