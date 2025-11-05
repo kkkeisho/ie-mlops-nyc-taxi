@@ -1,0 +1,10 @@
+artifact_location: file:///Users/keishoomori/Desktop/MBDS/term2/MLOps/ie_mlops_nyc_taxi/03-experiment-tracking/mlruns/453863738153716345/models/m-a4324c931d2b4ffe89c3289f605ec696/artifacts
+creation_timestamp: 1761735706712
+experiment_id: '453863738153716345'
+last_updated_timestamp: 1761735706722
+model_id: m-a4324c931d2b4ffe89c3289f605ec696
+model_type: null
+name: models
+source_run_id: 490c1848284b49f4bd90635f4813e58e
+status: 3
+status_message: null

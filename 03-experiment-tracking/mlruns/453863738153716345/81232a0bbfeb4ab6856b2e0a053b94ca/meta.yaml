@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/keishoomori/Desktop/MBDS/term2/MLOps/ie_mlops_nyc_taxi/03-experiment-tracking/mlruns/453863738153716345/81232a0bbfeb4ab6856b2e0a053b94ca/artifacts
+end_time: 1761736427164
+entry_point_name: ''
+experiment_id: '453863738153716345'
+lifecycle_stage: active
+run_id: 81232a0bbfeb4ab6856b2e0a053b94ca
+run_name: polite-crow-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761736426693
+status: 4
+tags: []
+user_id: keishoomori

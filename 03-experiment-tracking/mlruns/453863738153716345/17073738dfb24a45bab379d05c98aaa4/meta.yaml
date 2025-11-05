@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/keishoomori/Desktop/MBDS/term2/MLOps/ie_mlops_nyc_taxi/03-experiment-tracking/mlruns/453863738153716345/17073738dfb24a45bab379d05c98aaa4/artifacts
+end_time: 1761734777224
+entry_point_name: ''
+experiment_id: '453863738153716345'
+lifecycle_stage: active
+run_id: 17073738dfb24a45bab379d05c98aaa4
+run_name: bold-sow-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761734777105
+status: 4
+tags: []
+user_id: keishoomori
